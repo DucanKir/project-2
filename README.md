@@ -5,6 +5,7 @@
 This platform allows users to search for a board games, sort by categories, mechanics, price, number of players and more!
 
 ![](https://i.imgur.com/f5bCWXD.png)
+![](https://i.imgur.com/odGrcYY.gif)
 
 
 ## Brief:
